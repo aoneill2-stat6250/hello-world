@@ -1,4 +1,4 @@
 # hello-world
-Stat 6250
+Stat 6250 Spring 2017
 
-Anne here. I am a long-distance cyclist and have completed solo bike trips to Canada through Banff-Jasper National Park, and across South Korea from Pusan to Gwangju, as well as around Japan, from Shimonoseki to Nagasaki and over Aso San.
+Anne here. I am currently a middle school math teacher and in the MSBA program. I am hoping to change career paths to analyzing educational data.
